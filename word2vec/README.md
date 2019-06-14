@@ -4,4 +4,5 @@
 
 TO DO:
 	NCE_loss implement for multilabel problem
+	Candidate sampling: https://www.tensorflow.org/extras/candidate_sampling.pdf
 
