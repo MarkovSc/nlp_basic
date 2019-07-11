@@ -1,4 +1,4 @@
-# this is the basic code and component in the nlp application
+# basic code and component in the nlp application
 1. WordEmbedding
 
 2. RNN( RNN, LSTM , GRU)
